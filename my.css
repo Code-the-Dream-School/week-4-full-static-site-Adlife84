@@ -2,6 +2,10 @@ ul{
   list-style: none;
 }
 
+img {
+  width: 100%;
+}
+
 .jumbotron{
   background: linear-gradient(0deg,#fff,transparent),
               url('https://placeimg.com/1000/500/tech') no-repeat center;
